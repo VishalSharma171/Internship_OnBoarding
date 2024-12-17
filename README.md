@@ -51,36 +51,36 @@ project-root/
 
 
 ## 🚀Follow these steps to set up and run the project:
-1. Clone the Repository
+1. **Clone the Repository**
 git clone https://github.com/VishalSharma171/Internship_OnBoarding.git
 cd Internship_OnBoarding
 
-2. Install Dependencies
+2. **Install Dependencies**
 Make sure Node.js and npm are installed, then run:
 npm install
 
-3. Run the Development Server
+3. **Run the Development Server**
 Start the local development server:
 npm run dev
 
-4. Open the Application
+4. **Open the Application**
 Visit http://localhost:3000 in your browser.
 
 
-## Output Screenshots:
-1. Intial Page
+## **Output Screenshots**:
+1. **Intial Page**
 ![image](https://github.com/user-attachments/assets/44d4b86a-4f7e-43c5-9250-e3714752de34)
 
-2. Login Validation
+2. **Login Validation**
 ![image](https://github.com/user-attachments/assets/76afb42f-1089-41b8-823e-ecec2f0434e3)
 
-3. Successful Login
+3. **Successful Login**
 ![image](https://github.com/user-attachments/assets/87e63099-2bc1-4e81-864a-ebe52b5e5f0b)
 
-4. Sign-up Redirection 
+4. **Sign-up Redirection**
 ![Uploading image.png…]()
 
-5. Google Sign-in (Mock)
+5. **Google Sign-in (Mock)**
 ![Uploading image.png…]()
 
 
