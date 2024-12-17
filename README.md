@@ -50,7 +50,7 @@ project-root/
 └── README.md               # Documentation
 
 
-🚀Follow these steps to set up and run the project:
+## 🚀Follow these steps to set up and run the project:
 1. Clone the Repository
 git clone https://github.com/VishalSharma171/Internship_OnBoarding.git
 cd Internship_OnBoarding
@@ -67,7 +67,7 @@ npm run dev
 Visit http://localhost:3000 in your browser.
 
 
-Output Screenshots:
+## Output Screenshots:
 1. Intial Page
 ![image](https://github.com/user-attachments/assets/44d4b86a-4f7e-43c5-9250-e3714752de34)
 
